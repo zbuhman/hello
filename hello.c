@@ -1,5 +1,6 @@
 /**
  * Author: Zach Buhman
+ * Collaborators: Logan Glynn
  * Date: 2019/8/29
  *
  * A simple hello world program in C
