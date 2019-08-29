@@ -1,5 +1,6 @@
 /**
  * Author: Zach Buhman
+ * Collaborators: Logan Glynn, Cole White
  * Date: 2019/8/29
  *
  * A simple hello world program in C
@@ -15,6 +16,10 @@ int main(int argc, char **argv) {
   printf("Actuarial Science\n");
 
   printf("Logan Glynn\n");
+
+  printf("Computer Engineering\n");
+
+  printf("Cole White\n");
 
   printf("Computer Engineering\n");
 
